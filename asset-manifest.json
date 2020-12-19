@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/GlobalClicker/static/js/app.2d25ef34.chunk.js",
-    "app.js.map": "/GlobalClicker/static/js/app.2d25ef34.chunk.js.map",
+    "app.js": "/GlobalClicker/static/js/app.08966990.chunk.js",
+    "app.js.map": "/GlobalClicker/static/js/app.08966990.chunk.js.map",
     "runtime~app.js": "/GlobalClicker/static/js/runtime~app.1050f9aa.js",
     "runtime~app.js.map": "/GlobalClicker/static/js/runtime~app.1050f9aa.js.map",
-    "static/js/2.8adb1656.chunk.js": "/GlobalClicker/static/js/2.8adb1656.chunk.js",
-    "static/js/2.8adb1656.chunk.js.map": "/GlobalClicker/static/js/2.8adb1656.chunk.js.map",
+    "static/js/2.d5fab199.chunk.js": "/GlobalClicker/static/js/2.d5fab199.chunk.js",
+    "static/js/2.d5fab199.chunk.js.map": "/GlobalClicker/static/js/2.d5fab199.chunk.js.map",
     "fonts/Ionicons.ttf": "/GlobalClicker/./fonts/Ionicons.ttf",
     "favicon-16.png": "/GlobalClicker/favicon-16.png",
     "favicon-32.png": "/GlobalClicker/favicon-32.png",
@@ -13,11 +13,11 @@
     "index.html": "/GlobalClicker/index.html",
     "manifest.json": "/GlobalClicker/manifest.json",
     "serve.json": "/GlobalClicker/serve.json",
-    "static/js/2.8adb1656.chunk.js.LICENSE.txt": "/GlobalClicker/static/js/2.8adb1656.chunk.js.LICENSE.txt"
+    "static/js/2.d5fab199.chunk.js.LICENSE.txt": "/GlobalClicker/static/js/2.d5fab199.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.1050f9aa.js",
-    "static/js/2.8adb1656.chunk.js",
-    "static/js/app.2d25ef34.chunk.js"
+    "static/js/2.d5fab199.chunk.js",
+    "static/js/app.08966990.chunk.js"
   ]
 }
